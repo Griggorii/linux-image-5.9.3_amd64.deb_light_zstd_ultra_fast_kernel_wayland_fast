@@ -3,7 +3,7 @@ new structure linux-libc-dev + /usr/include/x86_64-linux-gnu/ , linux-image-5.9.
 
 Download kernel deb package https://github.com/Griggorii/linux-image-5.9.3_amd64.deb_light_zstd_ultra_fast_kernel_memory_super_low/releases/tag/fast
 
-Patch anti cloud anti winerably security fronted
+Patch anti online cloud anti winerably security fronted
 
 sudo cp -r 'blacklist_linux_config-5.9.3.conf' /etc/modprobe.d && sudo update-initramfs -u -v && sudo update-grub && reboot
 
